@@ -1,0 +1,1 @@
+A culinary-themed introduction to Microsoft's Semantic Kernel framework.

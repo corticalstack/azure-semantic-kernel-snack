@@ -1,0 +1,12 @@
+[project]
+name = "azure-semantic-kernel-snack"
+version = "1.0.0"
+description = "15 minute quick snack on Semantic Kernel"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.5.0a0",
+    "python-dotenv==1.0.1",
+    "semantic-kernel[azure]==1.29.0",
+]

@@ -44,3 +44,4 @@ If you prefer not to use the Dev Container:
 - [Semantic Kernel and MCP blog](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/
 )
 - [Semantic Kernel process framework](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/process/process-framework)
+- [Azure AI Foundry Examples](https://github.com/corticalstack/azure-ai-foundry-examples)
